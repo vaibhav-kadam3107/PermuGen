@@ -37,8 +37,8 @@ def main():
     print("You can specify the characters, numbers, and special characters to include in the passwords.")
     print()
 
-    words = input("Enter words to include (separated by spaces, e.g., vaibhav kadam): ").split()
-    numbers = input("Enter numbers to include (e.g., 3107): ")
+    words = input("Enter words to include (separated by spaces, e.g., yyy zzz): ").split()
+    numbers = input("Enter numbers to include (e.g., 1234): ")
     specials = input("Enter special characters to include (e.g., !@#$%): ")
     output_file = input("Enter output file name: ")
 
