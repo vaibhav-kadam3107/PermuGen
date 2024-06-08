@@ -17,14 +17,12 @@ This Python script helps you generate custom password dictionaries for brute for
    ```
    git clone https://github.com/yourusername/password-dictionary-generator.git
    cd password-dictionary-generator
-
    ```
 
 2. Run Code
 
    ```
    python PermuGen.py
-   
    ```
 
 ## Contribution
